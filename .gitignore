@@ -1,0 +1,32 @@
+# Diretórios de build e cache do Visual Studio / Qt
+.vs/
+**/x64/
+**/Debug/
+**/Release/
+*.VC.db
+*.VC.opendb
+*.user
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.suo
+*.ipch
+
+# Atalhos do Windows
+*.lnk
+
+# Rascunho secundário / projeto incompleto
+Convolution/
+
+# Capturas de tela, imagens de teste avulsas e relatório local
+Screenshots/
+Screenshots2/
+**/Screenshots/
+**/Screenshots2/
+*.jpg
+*.png
+*.bmp
+Relatorio_FPI_2.pdf
